@@ -1,2 +1,2 @@
-# f-rias
+# ferias
 Meu primeiro site hospedado
